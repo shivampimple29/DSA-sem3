@@ -1,0 +1,82 @@
+{
+  "repository": "shivampimple29/DSA-sem3",
+  "defaultBranch": "main",
+  "updatedAtUTC": "2026-10-24T08:06:57.596610+00:00",
+  "updatedAtIST": "2026-10-24 13:36:57 IST",
+  "trafficStatus": "success",
+  "trafficMetrics": {
+    "availableDaysCount": 5,
+    "isWindowComplete": true,
+    "windowStartDate": "2026-10-19",
+    "windowEndDate": "2026-10-23",
+    "last5DaysRecords": [
+      {
+        "date": "2026-10-19",
+        "clones": 2,
+        "uniqueCloners": 2,
+        "views": 0,
+        "uniqueVisitors": 0,
+        "status": "Recorded"
+      },
+      {
+        "date": "2026-10-20",
+        "clones": 0,
+        "uniqueCloners": 0,
+        "views": 0,
+        "uniqueVisitors": 0,
+        "status": "Recorded"
+      },
+      {
+        "date": "2026-10-21",
+        "clones": 0,
+        "uniqueCloners": 0,
+        "views": 0,
+        "uniqueVisitors": 0,
+        "status": "Recorded"
+      },
+      {
+        "date": "2026-10-22",
+        "clones": 0,
+        "uniqueCloners": 0,
+        "views": 0,
+        "uniqueVisitors": 0,
+        "status": "Recorded"
+      },
+      {
+        "date": "2026-10-23",
+        "clones": 1,
+        "uniqueCloners": 1,
+        "views": 0,
+        "uniqueVisitors": 0,
+        "status": "Recorded"
+      }
+    ],
+    "last5DaysTotalClones": 3,
+    "last5DaysTotalViews": 0,
+    "last5DaysSumUniqueCloners": 3,
+    "last5DaysSumUniqueVisitors": 0,
+    "last5DaysAvgUniqueClonersPerDay": 0.6,
+    "last5DaysAvgUniqueVisitorsPerDay": 0.0,
+    "previous5DaysDates": [
+      "2026-10-14",
+      "2026-10-15",
+      "2026-10-16",
+      "2026-10-17",
+      "2026-10-18"
+    ],
+    "previous5DaysTotalClones": 1,
+    "previous5DaysTotalViews": 0,
+    "cloneDifference": 2,
+    "viewDifference": 0,
+    "cloneGrowthPercent": 200.0,
+    "viewGrowthPercent": null,
+    "recordedCumulativeClones": 4,
+    "recordedCumulativeViews": 0,
+    "recordedCumulativeUniqueCloners": 4,
+    "recordedCumulativeUniqueVisitors": 0,
+    "collectionStartedAt": "2026-10-24T08:06:57.596610+00:00",
+    "lastSuccessfulUpdate": "2026-10-24T08:06:57.596610+00:00"
+  },
+  "forksCount": 0,
+  "supporters": []
+}
