@@ -688,7 +688,7 @@ def generate_hall_banner_svg(supporters_count: int, output_filepath: Path) -> No
 
   <!-- Central Clean Announcement Text -->
   <text x="410" y="31" text-anchor="middle" class="banner-text">
-    {announcement} <tspan class="pipe-sep"> | </tspan> Updates every day at 12:00 AM IST
+    {announcement} <tspan class="pipe-sep"> | </tspan> Updates every day at 12:00 AM UTC
   </text>
 </svg>
 """
@@ -1178,29 +1178,9 @@ REPO_METADATA: Dict[str, Tuple[str, str]] = {
         "Security Lab",
         "Practical solutions, lab experiments, and reference implementations for Semester 5 Security Lab.",
     ),
-    "Security-Lab-sem5": (
-        "Security Lab",
-        "Practical solutions, lab experiments, and reference implementations for Semester 5 Security Lab.",
-    ),
     "WebX": (
         "WebX",
         "Practical solutions, lab experiments, and reference implementations for Semester 5 WebX.",
-    ),
-    "WebX-sem5": (
-        "WebX",
-        "Practical solutions, lab experiments, and reference implementations for Semester 5 WebX.",
-    ),
-    "DevOps-sem4": (
-        "DevOps",
-        "Practical solutions, lab experiments, and reference implementations for Semester 4 DevOps.",
-    ),
-    "DBMS-sem4": (
-        "Database Management Systems",
-        "Practical solutions, lab experiments, and reference implementations for Semester 4 Database Management Systems.",
-    ),
-    "DSA-sem3": (
-        "Data Structures and Algorithms",
-        "Practical solutions, lab experiments, and reference implementations for Semester 3 Data Structures and Algorithms.",
     ),
     "Intelligent-Data-System-sem5": (
         "Intelligent Data Systems",
